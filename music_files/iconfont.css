@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4603027 */
+  src: url("iconfont.woff2?t=1719562970851") format("woff2"),
+    url("iconfont.woff?t=1719562970851") format("woff"),
+    url("iconfont.ttf?t=1719562970851") format("truetype");
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 1em;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bcard-share-fill:before {
+  content: "\e600";
+}
+
+.icon-bcard-user-fill:before {
+  content: "\e601";
+}
+
+.icon-bcard-email-fill:before {
+  content: "\e602";
+}
+
+.icon-bcard-telephone-fill:before {
+  content: "\e603";
+}
+
+.icon-bcard-company-fill:before {
+  content: "\e604";
+}
+
+.icon-bcard-email-line:before {
+  content: "\e605";
+}
+
+.icon-bcard-address-line:before {
+  content: "\e606";
+}
+
+.icon-bcard-job-fill:before {
+  content: "\e607";
+}
+
+.icon-bcard-address-fill:before {
+  content: "\e608";
+}
+
+.icon-bcard-telephone-line:before {
+  content: "\e609";
+}
+
+.icon-bcard-wechat-fill:before {
+  content: "\e60a";
+}
+
+.icon-bcard-wechat-line:before {
+  content: "\e60b";
+}

@@ -1,0 +1,8 @@
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?385c2ed13332a7c7632651b5b33c147b";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+//   hm.src = "https://hm.baidu.com/hm.js?0aafb5d9e0bdc75bf52c5b076ad9dc90"
